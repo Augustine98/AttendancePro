@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/alarmbutton"
+          app:showAsAction="always"
+        android:icon="@drawable/ic_alarm_black_24dp"
+        android:onClick="alarmButtonClicked"
+        />
+    <item
+        android:id="@+id/attend_settings"
+        android:orderInCategory="100"
+        android:title="Edit Subjects" />
+    <item
+        android:id="@+id/attendance_info"
+        android:orderInCategory="200"
+        android:title="Attendance Info" />
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="300"
+        android:title="Exit"
+        app:showAsAction="never" />
+</menu>

@@ -1,6 +1,6 @@
 # AttendancePro
 
-An Android app to monitor and manage your attendance in college, it has a neat GUI and added functionalaties such as reminders and notifications.
+An Android app to monitor and manage your attendance in college, it has a neat GUI and added functionalities such as reminders and notifications.
 
 /*
  * ----------------------------------------------------------------------------
